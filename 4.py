@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date    : 2017-06-17 09:46:02
-# @Author  : KID
+# @Author  : Emiya
 # @Link    : http://example.org
 # @Version : $Id$
 
